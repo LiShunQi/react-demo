@@ -54,7 +54,7 @@ class Sider extends React.Component {
 
     getUser = () => {
         this.setState({
-            username: 'luozh'
+            username: 'lushunqi'
         })
     }
 
